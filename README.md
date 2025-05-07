@@ -31,4 +31,7 @@ Aplikasi Mobile Aktivitas Mahasiswa adalah sebuah platform berbasis Android yang
 |------------------|----------------|------|
 | ![Home](https://raw.githubusercontent.com/angelinasbln/UTS-PBM/main/home.png) | ![Jadwal](https://raw.githubusercontent.com/angelinasbln/UTS-PBM/main/jadwal.png) | ![Akun](https://raw.githubusercontent.com/angelinasbln/UTS-PBM/main/akun.png) |
 
+## 🎥 Demo Aplikasi
 
+Tonton video demo aplikasi pada link berikut:  
+📺 [https://youtu.be/pZy1gFw8FSI](https://youtu.be/pZy1gFw8FSI)
