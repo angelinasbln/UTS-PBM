@@ -29,6 +29,6 @@ Aplikasi Mobile Aktivitas Mahasiswa adalah sebuah platform berbasis Android yang
 
 | Home (Aktivitas) | Jadwal Kuliah | Akun |
 |------------------|----------------|------|
-| ![Home](./screenshots/home.png) | ![Jadwal](./screenshots/jadwal.png) | ![Akun](./screenshots/akun.png) |
+| ![Home](https://raw.githubusercontent.com/angelinasbln/UTS-PBM/main/home.png) | ![Jadwal](https://raw.githubusercontent.com/angelinasbln/UTS-PBM/main/jadwal.png) | ![Akun](https://raw.githubusercontent.com/angelinasbln/UTS-PBM/main/akun.png) |
 
 
