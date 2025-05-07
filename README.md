@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# pbm_angel
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # UTS-PBM
 Tugas UTS Pemrograman Berbasis Mobile
 
@@ -53,4 +35,3 @@ Aplikasi Mobile Aktivitas Mahasiswa adalah sebuah platform berbasis Android yang
 
 Tonton video demo aplikasi pada link berikut:  
 📺 [https://youtu.be/pZy1gFw8FSI](https://youtu.be/pZy1gFw8FSI)
->>>>>>> 4b1612016c77130784a43e6e13bca1da451b362d
